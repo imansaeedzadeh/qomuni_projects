@@ -1,0 +1,17 @@
+{
+  "name": "research-notes",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "iman saeedzadeh",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
